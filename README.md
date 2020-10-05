@@ -12,7 +12,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/raj-vijay/da">
-    <img src="images/GoogleAI.png" alt="Logo" width="630" height="197">
+    <img src="images/GoogleAI.png" alt="Logo" width="334" height="81">
   </a>
 
   <h3 align="center">Google OR Tools </h3>
