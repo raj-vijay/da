@@ -20,7 +20,7 @@
   <p align="center">
     Repository for Decision Analytics
     <br />
-    <a href=" https://developers.google.com/optimization "><strong>Explore OR Tools »</strong></a>
+    <a href="https://developers.google.com/optimization"><strong>Explore OR Tools »</strong></a>
   </p>
 </p>
 
